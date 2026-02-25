@@ -1,2 +1,1 @@
-message = "Jay Ganesh"
-print(message)
+print(__name__)

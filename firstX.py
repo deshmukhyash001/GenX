@@ -1,5 +1,4 @@
 def main():
-    print("Jay Ganesh")
-
-if __name__ == '__main__':
+  print("jay ganesh")
+if(__name__ == "__main__"):
     main()

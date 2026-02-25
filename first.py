@@ -1,4 +1,4 @@
 def main():
-    print("Jay Ganesh")
+    print("jay ganesh")
 
 main()
